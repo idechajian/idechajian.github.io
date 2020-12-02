@@ -2,5 +2,7 @@
 <plugins>
   <plugin id="org.example.BetterIntelliJ" url="https://repo.idechajian.com/static/betterintellij/1.12/BetterIntelliJ.zip" version="1.12">
     <idea-version since-build="201.6668" until-build="999.9999" />
+    <name>BetterIntelliJ</name>
+    <rating>5</rating>
   </plugin>
 </plugins>
