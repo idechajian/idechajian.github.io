@@ -5,7 +5,7 @@
     <name>BetterIntelliJ</name>
     <rating>54537</rating>
   </plugin>
-  <plugin id="com.idechajian.resetter" url="https://repo.idechajian.com/static/resetintellij/1.0/ResetIntelliJ.zip" version="1.0">
+  <plugin id="com.idechajian.resetter" url="https://repo.idechajian.com/static/resetintellij/1.1/ResetIntelliJ.zip" version="1.1">
     <idea-version since-build="201.6668" until-build="999.9999" />
     <name>ResetIntelliJ</name>
     <rating>545037</rating>
