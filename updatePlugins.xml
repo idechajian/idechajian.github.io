@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <plugin id="org.example.BetterIntelliJ" url="https://repo.idechajian.com/static/betterintellij/1.14/BetterIntelliJ.zip" version="1.14">
+  <plugin id="org.example.BetterIntelliJ" url="https://repo.idechajian.com/static/betterintellij/1.15/BetterIntelliJ.zip" version="1.15">
     <idea-version since-build="201.6668" until-build="999.9999" />
     <name>BetterIntelliJ</name>
     <rating>54537</rating>
