@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <plugin id="org.example.BetterIntelliJ" url="https://repo.idechajian.com/static/betterintellij/1.16/BetterIntelliJ.zip" version="1.16">
+  <plugin id="org.example.BetterIntelliJ" url="https://repo.idechajian.com/static/betterintellij/1.19/BetterIntelliJ.zip" version="1.19">
     <idea-version since-build="201.6668" until-build="999.9999" />
     <name>BetterIntelliJ</name>
-    <rating>64537</rating>
+    <rating>74537</rating>
   </plugin>
   <plugin id="com.idechajian.resetter" url="https://repo.idechajian.com/static/resetintellij/1.1/ResetIntelliJ.zip" version="1.1">
     <idea-version since-build="201.6668" until-build="999.9999" />
