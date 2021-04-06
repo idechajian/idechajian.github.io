@@ -3,11 +3,11 @@
   <plugin id="org.example.BetterIntelliJ" url="https://repo.idechajian.com/static/betterintellij/1.20/BetterIntelliJ.zip" version="1.20">
     <idea-version since-build="201.6668" until-build="999.9999" />
     <name>BetterIntelliJ</name>
-    <rating>74537</rating>
+    <rating>3</rating>
   </plugin>
   <plugin id="com.idechajian.resetter" url="https://repo.idechajian.com/static/resetintellij/1.1/ResetIntelliJ.zip" version="1.1">
     <idea-version since-build="201.6668" until-build="999.9999" />
     <name>ResetIntelliJ</name>
-    <rating>545037</rating>
+    <rating>2</rating>
   </plugin>
 </plugins>
